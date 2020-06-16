@@ -1,12 +1,12 @@
 {
-  "type": "",
-  "project_id": "",
-  "private_key_id": "",
-  "private_key": "",
-  "client_email": "",
-  "client_id": "",
-  "auth_uri": "",
-  "token_uri": "",
-  "auth_provider_x509_cert_url": "",
-  "client_x509_cert_url": ""
+  "type": "service_account",
+  "project_id": "nodejs-filmes",
+  "private_key_id": "6c1100f92c7fd135cac30a5acf4e857d52ce3f36",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCnycqFm9ILvQvM\nA/1WygHu1dALRx9N2dQGj+konrupSj4ZgB8JFPv6Ye/RMLc2FrxnZ22xFjkiyh0U\nHc4nF52QZ7nL8KQmSjB2GOV56Hi1VcKiwdvMhyFLIYBiod8ZEMIBX5pHEFqXUI22\nCj4Bk9BNMqOllS+aEBvTqvSmbeX+Zx5BYlpUGUpoqMsTvZ2Gt1NWXhATPLaBKQLQ\n6G9x4VOvztTZJVCJKJ/OtOXKQyuK692UxZ+fbqpdwJ/R8+1WYatspJ1jomBk0N1V\nwgpUhLEjQkpmWHO/nEHULWgCPfoiNyu9/7QPIhMzSFcIQ0r0Z/zjnPU99TygmFz7\n7DbPFAdBAgMBAAECggEAGYm+OH3SB5VbkU7eJXKTvr1ub/kAS8Im4mTPES6v04GI\nWCtHDgPSonZ7oPRwPlxRis+UQ4rlYWUv7drngM24Xr1a6y6SXX2XSLJbYyW+EaOe\n/1TQVp4OtDfCKcEHivIhBUJ+4egcUcGiAB4o9+Z+ovFdNRuy5hkjkyEHIbnCcukR\n1Xz3i17NwWcRXvYbZS6/7T5G0RX1eY0m5A3mFpSYZoe041263MqU0g15dMxZNXCq\nQsvFHAONxXq1ax0+n8DnGErqLxwQsfMhKh1GHD6BanACFJptpds+bdO3n6JjV71F\nwMdrpVxskMLzAbi9al76efBQ5lgT4sTNwLSsY42f0QKBgQDeAINSghUY0ilRXbg9\n/wzVR2QBTQqFXhE8hkc/sGdkzMmH3Molc1C1ARjfr7bz+ms1ksR295x5CwurrQUS\ngNznHDpX0THK3iclBPOQwrdoq0Tp/Uz0IS3tv6F/ohwLiRCkf4md8hOJJCSZ/i4T\nym/+U9YrCzoFSU26IIn7f5xvNQKBgQDBe9pBlO0/KK9/tzcGL4GBApNmR5m7gVDJ\n+1vC5tn4C7IWN3HgDjxGJrvIc45Y1KTm2Pd8YKm5zeHrf/+Ef/dpnKnArrCLT7Hg\n1UYQaQF3kFwdihzrBB16oEIpu60ikJ088eaPvddJRy1KnIDfhJq8F/S1CLGpyArL\nxzn2UcA9XQKBgQCzCgre4dYN3IBCBKlwJl+9KgQ3IGDZylFwVILllGjuXFIz5haJ\nOYTfVXEwBVAxV8ZawHD92RgybnwNCk7K6248XQGYjTfw+lTrgCDGoKK2IVpEs2n6\ngT+/PAsNGjov+2yWndzoqrCiq6lxIBMdFuhXXlmdAULbvJCZCWD+mZ4Z+QKBgFvu\nYBaXD17aEwEI6aELw2mr8qM/VAEugVdnEgN6MojT7cr2jynZObRPRRwKI9F7P9rb\nrkOvnhVFiJmf2KV5M/I/WLzPg9y9ghQE4eR8MBFCSzJR5EmaS/Nu3+D6ZlotAjjp\n6xXTKs6Lfi6cS/NoCylh7Ihz2A6GmPKX96dc0o2VAoGBALKInl1kCMY8wo9t8P9H\n1crZotQEgEmyPKditrsw+ydmkLBuZtK2mnaL2cXaoSuMQubBuJBe3/CUviFb1PIr\nAZMDwr2KuBA9mQNCl71hanYXM2TFkG8lohaPPeFlPKGQB0vBfGSuNfT1eDFki9Sn\neIBKsg6btucE3iVr9IJ/LJZ/\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-5ve4u@nodejs-filmes.iam.gserviceaccount.com",
+  "client_id": "108063504761589820102",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-5ve4u%40nodejs-filmes.iam.gserviceaccount.com"
 }
